@@ -13,7 +13,7 @@ VALUES
     ('3', 'cat', '0933', '', NULL, NULL),
     ('4', 'dog', '0921', '', NULL, NULL)
 INSERT INTO
-    `studentss` (
+    `students` (
         `id`,
         `name`,
         `mobile`,
